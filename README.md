@@ -10,5 +10,5 @@ Co-founder of https://nodejumper.io
 - Twitter: https://twitter.com/hdmiimdh
 - Upwork: https://www.upwork.com/freelancers/~01078b74549dbf370c
 
-## ⚡ Fun stats:
+## ⚡ GitHub stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=hdmiimdh)](https://github.com/anuraghazra/github-readme-stats)
