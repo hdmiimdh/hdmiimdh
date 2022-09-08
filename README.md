@@ -1,6 +1,6 @@
 ## 👋 Who am I:
 
-> Hdmiimdh - a fullstack software engineer with 10 years of experience in different domains, professional POS validator, Cosmos contributor and supporter. 
+Hdmiimdh - a fullstack software engineer with 10 years of experience in different domains, professional POS validator, Cosmos contributor and supporter. 
 Co-found of https://nodejumper.io
 
 ## 📫 How to reach me:
