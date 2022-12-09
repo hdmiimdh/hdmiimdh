@@ -6,7 +6,6 @@ Co-founder of https://nodejumper.io
 ## 📫 How to reach me:
 
 - Discord: hdmiimdh#7913
-- Website: https://hdmiimdh.xyz
 - Twitter: https://twitter.com/hdmiimdh
 - Upwork: https://www.upwork.com/freelancers/~01078b74549dbf370c
 
